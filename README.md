@@ -1,5 +1,8 @@
 # Tipo de datos en TYPESCRIPT:
 
+Link al curso completo en Youtube:
+[TYPESCRIPT DESDE CERO POR SERGIE CODE](https://youtu.be/UTA5bykCx2c)
+
 ![tipo de datos typescript](https://raw.githubusercontent.com/sergiecode/tipo-de-datos-en-typescript/master/1.png)
 
 ![typescript](https://raw.githubusercontent.com/sergiecode/tipo-de-datos-en-typescript/master/2.png)
